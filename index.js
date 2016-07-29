@@ -26,5 +26,5 @@ exports.decorateConfig = (config) => {
       lightCyan: '#8abeb7',
       lightWhite: '#c5c8c6'
     }
-  }
-});
+  });
+}
