@@ -1,0 +1,19 @@
+{
+  "name": "hyperterm-hybrid-reduced-contrast",
+  "version": "1.0.0",
+  "description": "Hybrid Reduced Contrast for Hyperterm",
+  "main": "index.js",
+  "repository": "https://github.com/kaicataldo/hyperterm-hybrid-reduced-contrast",
+  "keywords": [
+    "hyperterm",
+    "hybrid",
+    "reduced",
+    "contrast"
+  ],
+  "author": "Kai Cataldo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaicataldo/hyperterm-hybrid-reduced-contrast/issues"
+  },
+  "homepage": "https://github.com/kaicataldo/hyperterm-hybrid-reduced-contrast#readme"
+}
