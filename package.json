@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-hybrid-reduced-contrast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hybrid Reduced Contrast for Hyperterm",
   "main": "index.js",
   "repository": "https://github.com/kaicataldo/hyperterm-hybrid-reduced-contrast",
