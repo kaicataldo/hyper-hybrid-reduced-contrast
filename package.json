@@ -1,19 +1,22 @@
 {
-  "name": "hyperterm-hybrid-reduced-contrast",
+  "name": "hyper-hybrid-reduced-contrast",
   "version": "1.0.2",
-  "description": "Hybrid Reduced Contrast for Hyperterm",
+  "description": "Hybrid Reduced Contrast for Hyper",
   "main": "index.js",
-  "repository": "https://github.com/kaicataldo/hyperterm-hybrid-reduced-contrast",
+  "repository": "https://github.com/kaicataldo/hyper-hybrid-reduced-contrast",
   "keywords": [
-    "hyperterm",
+    "hyper",
     "hybrid",
     "reduced",
-    "contrast"
+    "contrast",
+    "color",
+    "scheme",
+    "theme"
   ],
   "author": "Kai Cataldo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kaicataldo/hyperterm-hybrid-reduced-contrast/issues"
+    "url": "https://github.com/kaicataldo/hyper-hybrid-reduced-contrast/issues"
   },
-  "homepage": "https://github.com/kaicataldo/hyperterm-hybrid-reduced-contrast#readme"
+  "homepage": "https://github.com/kaicataldo/hyper-hybrid-reduced-contrast#readme"
 }
